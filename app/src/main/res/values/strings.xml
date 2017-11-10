@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Template</string>
+    <string name="facebook_app_id">1746962898932897</string>
+    <string name="fb_login_protocol_scheme">fb1746962898932897</string>
 </resources>
